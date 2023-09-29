@@ -1,0 +1,21 @@
+UX E UI
+
+UX: User Experience (Experiencia do usuario), ele e responsavel pelo planejamento e organizacao de como um produto funciona para que seja facil ou agradavel para o usuario final.
+
+Quais seriam os objetivos do UX :
+
+1- Satisfazer as necessidades do usuario
+2- Ajudar a desenvolver produtos/serviços faceis de usar
+3- Dar controle e liberdade para os usuarios
+
+Desta forma o UX Design tem a função de proporcionar um jornada mais fluida e agradevel, melhoranda a informação e a experiencia entre as pessoas que estao utilizando o site  ou app
+
+--------------------------------------------------------------------------------------------------------------------------
+
+UI: User Inteface, que seria referente a interfaces graficas com as quais os usuarios conseguem interagir.
+
+Dessa forma, UI designers trabalham com o aspecto visual de um produto digital, ou seja, o quao agradavel e a estetica da interface
+
+interface grafica
+interface de controle
+interface gestual
